@@ -1,5 +1,5 @@
 {
-  "name": "fe-cli-tools",
+  "name": "modular-fe-cli-tools",
   "version": "1.0.0",
   "description": "CLI para generar código frontend modular con Clean Architecture",
   "type": "module",
